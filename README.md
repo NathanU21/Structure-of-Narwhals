@@ -10,5 +10,5 @@
 <h2> All Possible Habitats of Narwhals</h2>
 
 <h3> All Sources and Future Resources</h3>
-<p><a href="https://www.nationalgeographic.com/animals/mammals/facts/narwhal" target="_blank"> National Geographic Article: "Narwhal" </a></p>
+<p><a href="https://shorturl.at/deklJ" target="_blank"> National Geographic Article: "Narwhal"</a></p>
 </body>
