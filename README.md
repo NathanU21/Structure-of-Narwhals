@@ -8,7 +8,7 @@
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Narwhal_at_ice_edge.jpg"></a>
 <h2> All Possible Habitats of Narwhals</h2>
  <p> To start off, narwhals are commonly found in the Arctic waters of Greenland, Canada, Russia, and Norway.</p>
-  <a><img src="https://drive.google.com/file/d/1j6qdA0Juq673U6q6TRVmDEXBZLrj6jdm/view?usp=sharing"></a>
+  <a><img src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQzNi0xLWdzZmNfMjAxNzEyMDhfYXJjaGl2ZV9lMDAyMDAxLmpwZw.jpg?s=oJEXJhpaQIvW1azuBpGrV7x54cNw68o2S9G4wpMq_4E"></a>
 <h3> All Sources and Future Resources</h3>
-<p><a href="https://cdn18.picryl.com/photo/2019/10/13/karta-ledovitago-moria-i-vostochnago-okeana-9cbf0f-1024.jpg" target="_blank">National Geographic Article:"Narwhal"</a></p>
+<p><a href="https://www.nationalgeographic.com/animals/mammals/facts/narwhal" target="_blank">National Geographic Article:"Narwhal"</a></p>
 </body>
