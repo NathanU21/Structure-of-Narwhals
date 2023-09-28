@@ -1,7 +1,7 @@
 # The Amazing Unicorn Whale
 <head>
   <h4 style="color:white; text-align:center">
-    <a href="#Info">Info</a>
+    <a href="#README">Info</a>
       &nbsp&nbsp&nbsp&nbsp&nbsp
         <a href="#Structure of a Narwhal"> Structure of a Narwhal </a>
   </h4>
