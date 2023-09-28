@@ -6,4 +6,4 @@
     <a href="#Structure-of-a-Narwhal.md"> Structure of a Narwhal </a>
   </h4>
 </section>
-<h1> The Anatomy of a Narwhal </h1>
+<h2> The Anatomy of a Narwhal </h2>
