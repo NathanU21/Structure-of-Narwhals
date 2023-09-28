@@ -1,9 +1,8 @@
 # Stucture of a Narwhal
 <section>
 <h4 style={color:white;} align="center">
-    <a href="#README.md">Info</a>
+    <a href="https://nathanu21.github.io/Narwhals/">Info</a>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <a href="#Structure-of-a-Narwhal.md"> Structure of a Narwhal </a>
   </h4>
 </section>
     <a> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c50f9538-9b5f-4e99-bcca-ef1f4d596631/d453zwy-98085e2e-8646-4065-a66b-db638bd39123.jpg/v1/fill/w_900,h_600,q_75,strp/narwhal_tusk_by_citronvertstock_d453zwy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvYzUwZjk1MzgtOWI1Zi00ZTk5LWJjY2EtZWYxZjRkNTk2NjMxXC9kNDUzend5LTk4MDg1ZTJlLTg2NDYtNDA2NS1hNjZiLWRiNjM4YmQzOTEyMy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.r0crdQf3yeZ0sBTW29BNeVKFRUKuf4Q8m_El0KD2wkw"></a>
