@@ -20,5 +20,6 @@
   <p>For sightseers, most can spot narwhals near the edge of icey terrains, as narwhals will often need to resurface towards the top of the waters to breathe. The main challenege towards seeing actual narwhals is that narwhals can go on for several hours without having to resurface and breathe, so spotting them will take some time and a great amount of patience. </p>
 <h3> All Sources and Future Resources</h3>
 <p><a href="https://www.nationalgeographic.com/animals/mammals/facts/narwhal" target="_blank">National Geographic Article:"Narwhal"</a></p>
-  <p><a href="https://www.nationalgeographic.com/travel/article/narwhal-watching-tour-arctic-adventure-whales" target="_blank">National Geographic Article:"Kids are Obsessed with Narwhals. Here's where they live."</a></p>
+  <p><a href="https://www.nationalgeographic.com/travel/article/narwhal-watching-tour-arctic-adventure-whales" target="_blank">National Geographic       Article:"Kids are Obsessed with Narwhals. Here's where they live."</a></p>
+  <p><a href="https://a-z-animals.com/blog/narwhal-skull-how-its-massive-tusk-connects/" target="_blank">A-Z Animals: "Narwhal Skull"</a></p>
 </body>
