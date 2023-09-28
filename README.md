@@ -4,7 +4,7 @@
 <h3>An informational website about narwhals (Monodon monoceros)</h3>
 <h1> What is a Narwhal?</h1>
   <p> Known as the unicorns of the grand blue sea, narwhals, also scientifically known as monodon monoceros, who are related towards poiposes, are commonly found in the Arctic Ocean and are indistinguishable with their large, horn-like teeth, which are found within male narwhals. And, much like whales, require air to breathe, and often emerge to breathe through small cracks in the icey surface. </p>
-<h1> All Possible Habitats/Locations Narwhals are Found </h1>
+<h1> All Possible Habitats/Locations Where Narwhals are Found </h1>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Narwhal_at_ice_edge.jpg"></a>
 <h2> All Possible Habitats of Narwhals</h2>
  <p> To start off, narwhals are commonly found in the Arctic waters of Greenland and Canada, due to the how low the temperatures drop in that area. Besides these two areas, narwhals can also be found near Russia and Norway, due to the same reasons they are found in Canada and Greenland. </p>
